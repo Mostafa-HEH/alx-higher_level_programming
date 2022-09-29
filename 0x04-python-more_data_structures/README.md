@@ -21,3 +21,4 @@ Task 9: Write a function that returns a new dictionary with all values multiplie
 Task 10: Write a function that returns a key with the biggest integer value.
 Task 11: Write a function that returns a list with all values multiplied by a number without using any loops.
 Task 12: Create a function def roman\_to\_int(roman\_string): that converts a Roman numeral to an integer.
+Task 13: Write a function that returns the weighted average of all integers tuple (<score>, <weight>)
