@@ -1,15 +1,15 @@
 #!/usr/bin/python3
-def roman_to_int(roman_string):
-    if not isinstance(roman_string, str) or roman_string is None:
+def roman_to_int(roman_string: str):
+    if roman_string is None or type(roman_string) != str:
         return 0
-    symbol = {"I": 1, "V": 5, "X": 10, "L": 50, "C": 100, "D": 500, "M": 1000}
-    num = 0
-    for s in roman_string:
-        num = num + symbol[s]
-    if "IX" in roman_string or "IV" in roman_string:
-        num = num - 2
-    elif "XC" in roman_string or "XL" in roman_string:
-        num = num - 20
-    elif "CM" in roman_string or "CD" in roman_string:
-        num = num - 200
-    return num
+    data = {'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100, 'D': 500, 'M': 1000}
+    numbers = [data[x] for x in roman_string] + [0]
+    rep = 0
+
+    for i in range(len(numbers) - 1):
+        if numbers[i] >= numbers[i+1]:
+            rep += numbers[i]
+        else:
+            rep -= numbers[i]
+
+    return rep
