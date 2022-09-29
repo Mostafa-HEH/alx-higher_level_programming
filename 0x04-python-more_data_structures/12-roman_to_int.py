@@ -6,10 +6,10 @@ def roman_to_int(roman_string):
     num = 0
     for s in roman_string:
         num = num + symbol[s]
-    if "IX" in roman_string:
+    if "IX" in roman_string or "IV" in roman_string:
         num = num - 2
-    elif "XC" in roman_string:
+    elif "XC" in roman_string or "XL" in roman_string:
         num = num - 20
-    elif "CM" in roman_string:
+    elif "CM" in roman_string or "CD" in roman_string:
         num = num - 200
     return num
