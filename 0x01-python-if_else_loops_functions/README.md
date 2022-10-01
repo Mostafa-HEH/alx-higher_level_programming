@@ -9,3 +9,4 @@
 	- All your files must be executable
 	- The length of your files will be tested using wc
 Task 0: This program will assign a random signed number to the variable number each time it is executed. Complete the source code in order to print whether the number stored in the variable number is positive or negative.
+Task 1: This program will assign a random signed number to the variable number each time it is executed. Complete the source code in order to print the last digit of the number stored in the variable number.
