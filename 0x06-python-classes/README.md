@@ -14,3 +14,4 @@
 	- A documentation is not a simple word, it's a real sentence explaining what's the purpose of the module, class or method (the length of it will be verified)
 
 - Task 0: Write an empty class Square that defines a square:
+- Task 1: Write a class Square that defines a square by: (based on 0-square.py)
