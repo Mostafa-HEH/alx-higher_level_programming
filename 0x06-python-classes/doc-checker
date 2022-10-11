@@ -1,0 +1,8 @@
+#!/bin/bash
+echo "module documentation----------"
+python3 -c "print(__import__('$1').__doc__)"
+echo "classes documentation---------"
+python3 -c "print(__import__('$1').MyClass.__doc__)"
+echo "functions (inside and outside a class) documentaion-------------"
+python3 -c "print(__import__('$1').my_function.__doc__)"
+python3 -c "print(__import__('$1').MyClass.my_function.__doc__)"
