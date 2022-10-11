@@ -20,3 +20,4 @@
 - Task 4: Write a class Square that defines a square by: (based on 3-square.py)
 - Task 5: Write a class Square that defines a square by: (based on 4-square.py)
 - Task 6: Write a class Square that defines a square by: (based on 5-square.py)
+- Task 7: Write a class Node that defines a node of a singly linked list by:
