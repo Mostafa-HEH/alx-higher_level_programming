@@ -1,0 +1,39 @@
+The ``5-text_indentation`` module
+=============================
+Using ``text_indentation``
+---------------------
+Import module needs to be tested:
+	>>> text_indentation = __import__('5-text_indentation').text_indentation
+
+As perfect as requirements:
+	>>> text_indentation("Hello. World")
+	Hello.
+	<BLANKLINE>
+	World
+
+Text is not string:
+	>>> text_indentation(5)
+	Traceback (most recent call last):
+	  ....
+	TypeError: text must be a string
+
+Nothing should skip:
+	>>> text_indentation("Hello.:.?      world")
+	Hello.
+	<BLANKLINE>
+	:
+	<BLANKLINE>
+	.
+	<BLANKLINE>
+	?
+	<BLANKLINE>
+	world
+
+Hey should be mothing there :D :
+	>>> text_indentation("     ")
+
+I get that email have much space here :D :
+	>>> text_indentation("         getmostafa0@gmail")
+	getmostafa0@gmail
+	>>> text_indentation("getmostafa0@gmail       ")
+	getmostafa0@gmail
