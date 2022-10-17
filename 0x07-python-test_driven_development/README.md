@@ -22,3 +22,4 @@
 	* We strongly encourage you to work together on test cases, so that you don’t miss any edge case – The Checker is checking for tests!
 
 - Task 0: Write a function that adds 2 integers.
+- Task 1: Write a function that divides all elements of a matrix.
