@@ -24,3 +24,4 @@
 - Task 0: Write a function that adds 2 integers.
 - Task 1: Write a function that divides all elements of a matrix.
 - Task 2: Write a function that prints My name is <first name> <last name>
+- Task 3: Write a function that prints a square with the character #.
