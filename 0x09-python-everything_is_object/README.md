@@ -40,4 +40,5 @@ Task 22: Is a a tuple? Answer with Yes or No.
 Task 23: Is a a tuple? Answer with Yes or No.
 Task 24: What does this script print?
 Task 25: What does this script print?
+Task 26: What does this script print?
 
