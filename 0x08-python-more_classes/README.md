@@ -10,3 +10,4 @@
 	- The length of your files will be tested using wc
 
 Task 0: Write an empty class Rectangle that defines a rectangle:
+Task 1: Update as requirements
