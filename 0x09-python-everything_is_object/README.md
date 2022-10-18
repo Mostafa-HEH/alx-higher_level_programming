@@ -20,4 +20,5 @@ Task 2: In the following code, do a and b point to the same object? Answer with 
 Task 3: In the following code, do a and b point to the same object? Answer with Yes or No.
 Task 4: In the following code, do a and b point to the same object? Answer with Yes or No.
 Task 5: In the following code, do a and b point to the same object? Answer with Yes or No.
+Task 6: What do these 3 lines print?
 
