@@ -35,3 +35,5 @@ Task 17: What does this script print?
 Task 18: What does this script print?
 Task 19: Write a function def copy_list(l): that returns a copy of a list.
 Task 20: Is a a tuple? Answer with Yes or No.
+Task 21: Is a a tuple? Answer with Yes or No.
+
