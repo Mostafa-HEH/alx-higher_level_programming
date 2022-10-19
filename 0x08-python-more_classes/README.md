@@ -1,4 +1,4 @@
-### Tasks on 0x08. Python - More Classes and Objects project:
+i### Tasks on 0x08. Python - More Classes and Objects project:
 - Requirements:
 	- Allowed editors: vi, vim, emacs
 	- All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.8.5)
@@ -15,3 +15,4 @@ Task 2: Add public instance area and perimeter.
 Task 3: print() and str() should print the rectangle with the character #
 Task 4: repr() should return a string representation of the rectangle to be able to recreate a new instance by using eval()
 Task 5: Print the message Bye rectangle... when an instance of Rectangle is deleted
+Task 6: Public class attribute number_of_instances with init 0 which icrement with installition and decremented with deletion.
