@@ -13,3 +13,4 @@ Task 0: Write an empty class Rectangle that defines a rectangle.
 Task 1: Set/Get privite methods width and height.
 Task 2: Add public instance area and perimeter.
 Task 3: print() and str() should print the rectangle with the character #
+Task 4: repr() should return a string representation of the rectangle to be able to recreate a new instance by using eval()
