@@ -17,3 +17,4 @@ Task 4: repr() should return a string representation of the rectangle to be able
 Task 5: Print the message Bye rectangle... when an instance of Rectangle is deleted
 Task 6: Public class attribute number_of_instances with init 0 which icrement with installition and decremented with deletion.
 Task 7: add Public class attribute print_symbol
+Task 8: return biggest instance based on area and make sure they instance main class
