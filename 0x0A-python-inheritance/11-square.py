@@ -5,10 +5,11 @@ Write a class BaseGeometry
 
 
 BaseGeometry = __import__('7-base_geometry').BaseGeometry
-Rectangle = __import__('10-rectangle').Rectangle
+Rectangle = __import__('9-rectangle.py').Rectangle
 
 
 class Square(Rectangle):
+
     """Define squre class that inhertes Rectangle"""
     def __init__(self, size):
         """Init instaltion attributes"""
