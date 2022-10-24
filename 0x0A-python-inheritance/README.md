@@ -22,4 +22,6 @@
 		* A documentation is not a simple word, it’s a real sentence explaining what’s the purpose of the module, class or method (the length of it will be verified)
 		* We strongly encourage you to work together on test cases, so that you don’t miss any edge case
 
-- Task 0: Write a function that returns the list of available attributes and methods of an object
+- Task 0: Write a function that returns the list of available attributes and methods of an object.
+- Task 1: Write a class MyList that inherits from list.
+
