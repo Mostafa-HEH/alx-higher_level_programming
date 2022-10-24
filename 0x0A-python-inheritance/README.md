@@ -32,3 +32,4 @@
 - Task 7: add public instance integer_validator.
 - Task 8: Write a class Rectangle that inherits from BaseGeometry (7-base_geometry.py).
 - Task 9: implement area and str methods.
+- Task 10: Write a class Square that inherits from Rectangle (9-rectangle.py):
