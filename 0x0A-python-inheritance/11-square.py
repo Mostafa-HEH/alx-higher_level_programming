@@ -5,9 +5,7 @@ Write a class BaseGeometry
 
 
 BaseGeometry = __import__('7-base_geometry').BaseGeometry
-
-
-Rectangle = __import__('9-rectangle').Rectangle
+Rectangle = __import__('10-rectangle').Rectangle
 
 
 class Square(Rectangle):
