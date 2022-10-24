@@ -14,7 +14,7 @@ Create instance:
 No raises:
     >>> bg.integer_validator("my_int", 12)
 
-Value is string:
+Value is string or other:
     >>> bg.integer_validator("my_int", 'hello')
     Traceback (most recent call last):
       ....
@@ -31,3 +31,14 @@ Pass name only:
     Traceback (most recent call last):
       ....
     TypeError: integer_validator() missing 1 required positional argument: 'value'
+
+Pass no arguments:
+    >>> bg.integer_validator()
+    Traceback (most recent call last):
+      ....
+    TypeError: integer_validator() missing 2 required positional arguments: 'name' and 'value'
+
+Area raise Excepection:
+    Traceback (most recent call last):
+      ....
+    Exception: area() is not implemented
