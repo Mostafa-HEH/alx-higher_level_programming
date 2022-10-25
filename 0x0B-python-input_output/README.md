@@ -22,3 +22,4 @@
 		* We strongly encourage you to work together on test cases, so that you don’t miss any edge case
 
 Task 0: Write a function that reads a text file (UTF8) and prints it to stdout.
+Task 1: Write a function that writes a string to a text file (UTF8) and returns the number of characters written:
