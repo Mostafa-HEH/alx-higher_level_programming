@@ -27,3 +27,4 @@ Task 2: Write a function that appends a string at the end of a text file (UTF8) 
 Task 3: Write a function that returns the JSON representation of an object (string).
 TAsk 4: Write a function that returns an object (Python data structure) represented by a JSON string
 Task 5: Write a function that writes an Object to a text file, using a JSON representation
+Task 6: Write a function that creates an Object from a “JSON file”:
