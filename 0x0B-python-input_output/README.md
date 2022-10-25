@@ -32,4 +32,4 @@ Task 7: Write a script that adds all arguments to a Python list, and then save t
 Task 8: Write a function that returns the dictionary description with simple data structure (list, dictionary, string, integer and boolean) for JSON serialization of an object.
 Task 9: Write a class Student that defines a student.
 Task 10: Retreve only attrs if it passed
-
+Task 11: add public method reload_from_json
