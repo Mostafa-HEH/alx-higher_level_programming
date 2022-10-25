@@ -33,3 +33,4 @@ Task 8: Write a function that returns the dictionary description with simple dat
 Task 9: Write a class Student that defines a student.
 Task 10: Retreve only attrs if it passed
 Task 11: add public method reload_from_json
+Task 12: Create a function def pascal_triangle(n): that returns a list of lists of integers representing the Pascal’s triangle of n:
