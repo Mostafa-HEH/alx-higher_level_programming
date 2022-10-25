@@ -21,4 +21,4 @@ class Student:
                 if key in attrs:
                     l[key] = value
             return l
-        return self.__dict__
+        return self.__dict__.copy()
