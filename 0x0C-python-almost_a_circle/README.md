@@ -29,3 +29,4 @@
 - Task 1: Write the first class Base, Create a folder named models with an empty file __init__.py inside - with this file, the folder will become a Python package, Create a file named models/base.py
 - Task 2: Write the class Rectangle that inherits from Base.
 - Task 3: Update the class Rectangle by adding validation of all setter methods and instantiation (id excluded).
+- Task 4: Update the class Rectangle by adding the public method def display(self): that prints in stdout the Rectangle instance with the character # - you don’t need to handle x and y here.
