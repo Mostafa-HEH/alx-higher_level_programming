@@ -31,3 +31,4 @@
 - Task 3: Update the class Rectangle by adding validation of all setter methods and instantiation (id excluded).
 - Task 4: Update the class Rectangle by adding the public method def display(self): that prints in stdout the Rectangle instance with the character # - you don’t need to handle x and y here.
 - Task 5: Update the class Rectangle by overriding the __str__ method so that it returns [Rectangle] (<id>) <x>/<y> - <width>/<height>
+- Task 6: Update the class Rectangle by improving the public method def display(self): to print in stdout the Rectangle instance with the character # by taking care of x and y
